@@ -1,0 +1,53 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: purple;
+    border-width: 5px;
+     border-style: solid;  
+     /* padding-left: 25px;
+     padding-right: 25px;
+     padding-top: 25px;
+     padding-bottom: 25px; */
+
+     padding: 25px;
+     /* margin-top: auto; */
+     /* margin-top: 25px;
+     margin-bottom: 25px;
+     margin-left: 25px;
+     margin-right: 25px; */
+     margin: 25px;
+
+     
+
+    /* border-style: dotted;
+    border-style: dashed; */
+    /* border-style:ridge */
+    /* border-style: groove; */
+    /* border-style:double; */
+    /* border-style:inset;
+    border-style:outset; */
+
+    /* Shrotcut for border size,style,color */
+
+    border: 5px solid crimson
+}
+
+h1{
+    background-color: brown;
+    height: 50px;
+    width: 1000px;
+}
+
+p{
+    height: 50px;
+    width: 1000px;
+    background-color: cadetblue;
+    text-align: center;
+}
+
+
+.roundedimage {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
